@@ -1,0 +1,4 @@
+Objetivo,Accuracy,Precision,Recall,F1-score,Tiempo entrenamiento (s),Mejores parámetros
+Genetic Disorder,0.6365389250421788,0.6262955038563185,0.6365389250421788,0.6221013953325002,0.44550061225891113,"{'bootstrap': True, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100}"
+Disorder Subclass,0.4680645938780429,0.4676691493477904,0.4680645938780429,0.4461894671548846,0.527148962020874,"{'bootstrap': True, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100}"
+Combined_disorder,0.4695107254760183,0.475320130640052,0.4695107254760183,0.44806095396232054,0.5805401802062988,"{'bootstrap': True, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 100}"

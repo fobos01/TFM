@@ -1,0 +1,4 @@
+Objetivo,Accuracy,Precision,Recall,F1-score,Tiempo entrenamiento (s),Mejores parámetros
+Genetic Disorder,0.549530007230658,0.5437674035718763,0.549530007230658,0.5185404734935559,0.23038029670715332,"{'C': 10, 'l1_ratio': None, 'penalty': 'l2', 'solver': 'saga'}"
+Disorder Subclass,0.4921667871776332,0.49215550293797994,0.4921667871776332,0.48480313463127045,1.433260440826416,"{'C': 10, 'l1_ratio': None, 'penalty': 'l1', 'solver': 'saga'}"
+Combined_disorder,0.4921667871776332,0.4921555029379799,0.4921667871776332,0.48480313463127045,1.458359956741333,"{'C': 10, 'l1_ratio': None, 'penalty': 'l1', 'solver': 'saga'}"
